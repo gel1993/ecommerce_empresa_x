@@ -36,4 +36,4 @@ __Melhoria 1__, _melhoria 2_
 
 ### Imagem externa
 
-![Logo do PHP](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbecode.com.br%2Fwp-content%2Fuploads%2F2017%2F09%2Fphp-post-1.png&imgrefurl=https%3A%2F%2Fbecode.com.br%2Fo-que-e-php%2F&tbnid=4dtlXVENpWtx4M&vet=12ahUKEwixk4vnmZX9AhUABrkGHUllCxoQMygBegUIARDkAQ..i&docid=B5ruXwAErQdFxM&w=1200&h=630&q=imagem%20php&ved=2ahUKEwixk4vnmZX9AhUABrkGHUllCxoQMygBegUIARDkAQ)
+![Logo do PHP](https://blog.schoolofnet.com/wp-content/uploads/2019/01/capa-php1.jpg)
