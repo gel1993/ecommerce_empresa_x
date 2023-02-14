@@ -45,3 +45,5 @@ __Melhoria 1__, _melhoria 2_
 [https://horadecodar.com.br](https://horadecodar.com.br)
 
 Contribuidor principal: https://github.com/gel1993
+
+[![Logo do PHP](https://blog.schoolofnet.com/wp-content/uploads/2019/01/capa-php1.jpg)](https://github.com/gel1993)
