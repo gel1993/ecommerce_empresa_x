@@ -37,3 +37,7 @@ __Melhoria 1__, _melhoria 2_
 ### Imagem externa
 
 ![Logo do PHP](https://blog.schoolofnet.com/wp-content/uploads/2019/01/capa-php1.jpg)
+
+## Links interessantes:
+
+[Google](https://google.com)
