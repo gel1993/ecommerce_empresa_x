@@ -47,3 +47,11 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor principal: https://github.com/gel1993
 
 [![Logo do PHP](https://blog.schoolofnet.com/wp-content/uploads/2019/01/capa-php1.jpg)](https://github.com/gel1993)
+
+## Código da função soma
+
+```javascrit
+function soma(a,b) {
+    return a + b;
+}
+```
